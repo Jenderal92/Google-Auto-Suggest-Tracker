@@ -1,5 +1,7 @@
 # Google Auto-Suggest Tracker
 
+![Google-Auto-Suggest-Tracker Jenderal92](https://github.com/user-attachments/assets/870f42d7-9c2f-458c-9e34-07a735423f99)
+
 
 **Google Auto-Suggest Tracker** is a simple Python script designed to fetch and display Google search suggestions based on a specified keyword. It leverages Google's search suggestion API and presents the results in a structured format on the terminal. This tool is ideal for developers, content creators, or anyone looking to explore trending search terms.
 
